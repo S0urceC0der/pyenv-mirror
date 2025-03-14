@@ -52,8 +52,6 @@
   "7d56dadf6c7d92a238702389e80cfe66fbfae73e584189ed6f89c75bbf3eda58": "https://registry.npmmirror.com/-/binary/python/3.6.6/Python-3.6.6.tgz#7d56dadf6c7d92a238702389e80cfe66fbfae73e584189ed6f89c75bbf3eda58",
   "c2e4377597241b1065677d23327c04d0f41945d370c61a491cc88be367234c5d": "https://registry.npmmirror.com/-/binary/python/2.5.6/Python-2.5.6.tgz#c2e4377597241b1065677d23327c04d0f41945d370c61a491cc88be367234c5d",
   "dffbc0561a161a4a576c6059e6990a9859a0be16ba9b5736eabe4abbb2700d1c": "https://registry.npmmirror.com/-/binary/python/3.1.2/Python-3.1.2.tgz#dffbc0561a161a4a576c6059e6990a9859a0be16ba9b5736eabe4abbb2700d1c",
-  "74e83f26de1e4fb9eef1b56492cff92508834bb71ac13f5c580438ce9f093682": "https://registry.npmmirror.com/-/binary/python/3.14.0/Python-3.14.0a5.tar.xz#74e83f26de1e4fb9eef1b56492cff92508834bb71ac13f5c580438ce9f093682",
-  "fba0418c29c6ff0c1e7b3c6872a8a611aab472373adbdb831b99456f87549800": "https://registry.npmmirror.com/-/binary/python/3.14.0/Python-3.14.0a5.tgz#fba0418c29c6ff0c1e7b3c6872a8a611aab472373adbdb831b99456f87549800",
   "f8ceb4ee131e3232226a17f51b164afc46cd0b9e6cef344be87c65962cb82b02": "https://mirrors.ustc.edu.cn/gnu/readline/readline-8.1.tar.gz#f8ceb4ee131e3232226a17f51b164afc46cd0b9e6cef344be87c65962cb82b02",
   "afb74bf19130e7a47d10312c8f5e784f24e0527981eab68e20546cfb865830b8": "https://registry.npmmirror.com/-/binary/python/3.10.12/Python-3.10.12.tar.xz#afb74bf19130e7a47d10312c8f5e784f24e0527981eab68e20546cfb865830b8",
   "a43cd383f3999a6f4a7db2062b2fc9594fefa73e175b3aedafa295a51a7bb65c": "https://registry.npmmirror.com/-/binary/python/3.10.12/Python-3.10.12.tgz#a43cd383f3999a6f4a7db2062b2fc9594fefa73e175b3aedafa295a51a7bb65c",
@@ -835,5 +833,7 @@
   "8dfb8f426fcd226657f9e2bd5f1e96e53264965176fa17d32658e873591aeb21": "https://registry.npmmirror.com/-/binary/python/3.12.1/Python-3.12.1.tar.xz#8dfb8f426fcd226657f9e2bd5f1e96e53264965176fa17d32658e873591aeb21",
   "d01ec6a33bc10009b09c17da95cc2759af5a580a7316b3a446eb4190e13f97b2": "https://registry.npmmirror.com/-/binary/python/3.12.1/Python-3.12.1.tgz#d01ec6a33bc10009b09c17da95cc2759af5a580a7316b3a446eb4190e13f97b2",
   "91923007b05005b5f9bd46f3b9172248aea5abc1543e8a636d59e629c3331b01": "https://registry.npmmirror.com/-/binary/python/3.7.9/Python-3.7.9.tar.xz#91923007b05005b5f9bd46f3b9172248aea5abc1543e8a636d59e629c3331b01",
-  "39b018bc7d8a165e59aa827d9ae45c45901739b0bbb13721e4f973f3521c166a": "https://registry.npmmirror.com/-/binary/python/3.7.9/Python-3.7.9.tgz#39b018bc7d8a165e59aa827d9ae45c45901739b0bbb13721e4f973f3521c166a"
+  "39b018bc7d8a165e59aa827d9ae45c45901739b0bbb13721e4f973f3521c166a": "https://registry.npmmirror.com/-/binary/python/3.7.9/Python-3.7.9.tgz#39b018bc7d8a165e59aa827d9ae45c45901739b0bbb13721e4f973f3521c166a",
+  "8d6181e5331d9a2cd6ca405ae1230e88589a043f4768ebb443d3889d45c1c35c": "https://registry.npmmirror.com/-/binary/python/3.14.0/Python-3.14.0a6.tar.xz#8d6181e5331d9a2cd6ca405ae1230e88589a043f4768ebb443d3889d45c1c35c",
+  "8129cdb891958eb644856317f91fd1d2f1019745a983b2b01d2506584eb5be3e": "https://registry.npmmirror.com/-/binary/python/3.14.0/Python-3.14.0a6.tgz#8129cdb891958eb644856317f91fd1d2f1019745a983b2b01d2506584eb5be3e"
 }
