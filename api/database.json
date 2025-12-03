@@ -880,5 +880,7 @@
   "c4fa3da42156bed4a9d912433b618a141e0c5161d7cc8c328786736ea5d1c2da": "https://downloads.python.org/pypy/pypy2-v5.7.1-linux64.tar.bz2#c4fa3da42156bed4a9d912433b618a141e0c5161d7cc8c328786736ea5d1c2da",
   "8a6a194963eb58d582413c4bcdef6119f9f9f117a05032d1fb13192d934510c6": "https://bitbucket-archive.softwareheritage.org/static/14/140b7b14-aa94-424e-b191-9cd3438381f7/attachments/pypy-5.7.1-linux_x86_64-portable.tar.bz2#8a6a194963eb58d582413c4bcdef6119f9f9f117a05032d1fb13192d934510c6",
   "4e99ba356432861534917a9477ace0ccee617bd631512759a530f8383e153a3d": "https://downloads.python.org/pypy/pypy2-v5.7.1-osx64.tar.bz2#4e99ba356432861534917a9477ace0ccee617bd631512759a530f8383e153a3d",
-  "f449c3b167389324c525ad99d02376c518ac11e163dbbbc13bc88a5c7101fd00": "https://registry.npmmirror.com/-/binary/python/2.4.1/Python-2.4.1.tgz#f449c3b167389324c525ad99d02376c518ac11e163dbbbc13bc88a5c7101fd00"
+  "f449c3b167389324c525ad99d02376c518ac11e163dbbbc13bc88a5c7101fd00": "https://registry.npmmirror.com/-/binary/python/2.4.1/Python-2.4.1.tgz#f449c3b167389324c525ad99d02376c518ac11e163dbbbc13bc88a5c7101fd00",
+  "bc673c04375a1a3f0808c27ba8f0411ab811ad390a8740318ccb9c60fad8fd77": "https://registry.npmmirror.com/-/binary/python/3.13.10/Python-3.13.10.tar.xz#bc673c04375a1a3f0808c27ba8f0411ab811ad390a8740318ccb9c60fad8fd77",
+  "de5930852e95ba8c17b56548e04648470356ac47f7506014664f8f510d7bd61b": "https://registry.npmmirror.com/-/binary/python/3.13.10/Python-3.13.10.tgz#de5930852e95ba8c17b56548e04648470356ac47f7506014664f8f510d7bd61b"
 }
