@@ -539,6 +539,8 @@
   "aa472515800d25a3739833f76ca3735d9f4b2fe77c3cb21f69275e0cce30cb2b": "https://registry.npmmirror.com/-/binary/python/3.6.0/Python-3.6.0.tgz#aa472515800d25a3739833f76ca3735d9f4b2fe77c3cb21f69275e0cce30cb2b",
   "ca13e7b1860821494f70de017202283ad73b1fb7bd88586401c54ef958226ec8": "https://registry.npmmirror.com/-/binary/python/2.7.1/Python-2.7.1.tgz#ca13e7b1860821494f70de017202283ad73b1fb7bd88586401c54ef958226ec8",
   "45dbc50c81498f6f1067201b8fc887074b43b84ee32cc47f15e7db17571e9352": "https://downloads.python.org/pypy/pypy2-v5.4.1-src.tar.bz2#45dbc50c81498f6f1067201b8fc887074b43b84ee32cc47f15e7db17571e9352",
+  "2a84cd31dd8d8ea8aaff75de66fc1b4b0127dd5799aa50a64ae9a313885b4593": "https://registry.npmmirror.com/-/binary/python/3.13.12/Python-3.13.12.tar.xz#2a84cd31dd8d8ea8aaff75de66fc1b4b0127dd5799aa50a64ae9a313885b4593",
+  "12e7cb170ad2d1a69aee96a1cc7fc8de5b1e97a2bdac51683a3db016ec9a2996": "https://registry.npmmirror.com/-/binary/python/3.13.12/Python-3.13.12.tgz#12e7cb170ad2d1a69aee96a1cc7fc8de5b1e97a2bdac51683a3db016ec9a2996",
   "f0f563b74f8b82ec33b022393219b93cc0d81e9f9500614fe8417b67a52e9569": "https://downloads.python.org/pypy/pypy3-v5.7.0-src.tar.bz2#f0f563b74f8b82ec33b022393219b93cc0d81e9f9500614fe8417b67a52e9569",
   "fd6175fed63ff9fccd7886068078853078948d98afae9bd4f5554c6f7873c10d": "https://downloads.python.org/pypy/pypy3.6-v7.3.2-src.tar.bz2#fd6175fed63ff9fccd7886068078853078948d98afae9bd4f5554c6f7873c10d",
   "f280788002f2acf8690b8f9c479bb5b6f0e699ebb42f8bf203da3f70f1a38134": "https://downloads.python.org/pypy/pypy-stm-2.5.1-linux64.tar.bz2#f280788002f2acf8690b8f9c479bb5b6f0e699ebb42f8bf203da3f70f1a38134",
